@@ -1,0 +1,196 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* GasosaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1517}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Gasosa */ = {
+		activeExec = 0;
+		executables = (
+			27009250134188DD00F5A749 /* Gasosa */,
+		);
+	};
+	27009250134188DD00F5A749 /* Gasosa */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Gasosa;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	27009268134188E400F5A749 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27009269134188E400F5A749 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	271D3069134214DD00816335 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GasosaViewController.m */;
+		name = "GasosaViewController.m: 107";
+		rLen = 0;
+		rLoc = 3009;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	2775D3941341908B003D644F /* Calculator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 559}}";
+			sepNavSelRange = "{177, 0}";
+			sepNavVisRange = "{0, 358}";
+		};
+	};
+	2775D3951341908B003D644F /* Calculator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 559}}";
+			sepNavSelRange = "{442, 0}";
+			sepNavVisRange = "{0, 442}";
+			sepNavWindowFrame = "{{15, 99}, {750, 774}}";
+		};
+	};
+	2775D3A413419162003D644F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2775D3951341908B003D644F /* Calculator.m */;
+		name = "Calculator.m: 26";
+		rLen = 0;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	2775D3E413419692003D644F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GasosaViewController.h */;
+		name = "GasosaViewController.h: 22";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	2775D3F713419E3D003D644F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2775D3941341908B003D644F /* Calculator.h */;
+		name = "Calculator.h: 9";
+		rLen = 0;
+		rLoc = 177;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 0;
+	};
+	2775D3F813419E3D003D644F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GasosaAppDelegate.m */;
+		name = "GasosaAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1517;
+		vrLoc = 0;
+	};
+	2775D3FA1341A0BD003D644F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GasosaViewController.m */;
+		name = "GasosaViewController.m: 107";
+		rLen = 0;
+		rLoc = 3009;
+		rType = 0;
+		vrLen = 814;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* GasosaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 364}}";
+			sepNavSelRange = "{608, 0}";
+			sepNavVisRange = "{202, 405}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GasosaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 1677}}";
+			sepNavSelRange = "{3009, 0}";
+			sepNavVisRange = "{0, 814}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 27009250134188DD00F5A749 /* Gasosa */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Gasosa */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Gasosa */,
+		);
+		codeSenseManager = 27009269134188E400F5A749 /* Code sense */;
+		executables = (
+			27009250134188DD00F5A749 /* Gasosa */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					856,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323097758;
+			PBXWorkspaceStateSaveDate = 323097758;
+		};
+		perUserProjectItems = {
+			271D3069134214DD00816335 /* PBXTextBookmark */ = 271D3069134214DD00816335 /* PBXTextBookmark */;
+			2775D3A413419162003D644F /* PBXTextBookmark */ = 2775D3A413419162003D644F /* PBXTextBookmark */;
+			2775D3E413419692003D644F /* PBXTextBookmark */ = 2775D3E413419692003D644F /* PBXTextBookmark */;
+			2775D3F713419E3D003D644F /* PBXTextBookmark */ = 2775D3F713419E3D003D644F /* PBXTextBookmark */;
+			2775D3F813419E3D003D644F /* PBXTextBookmark */ = 2775D3F813419E3D003D644F /* PBXTextBookmark */;
+			2775D3FA1341A0BD003D644F /* PBXTextBookmark */ = 2775D3FA1341A0BD003D644F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27009268134188E400F5A749 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
